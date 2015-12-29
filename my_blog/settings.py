@@ -8,8 +8,8 @@ TEMPLATE_DEBUG = DEBUG
 ALLOWED_HOSTS = choose_settings.ALLOWED_HOSTS
 
 ADMINS = (
-    # ('Your Name', 'your_email@example.com'),
-    ('laike9m', 'laike9m@gmail.com'),
+    # ('Your Name', '@example.com'),
+    ('Zhilin', 'zhlin.han@gmail.com'),
 )
 
 MANAGERS = ADMINS
